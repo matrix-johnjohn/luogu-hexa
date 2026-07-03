@@ -7,6 +7,6 @@
 
 ## 技术栈
 <li>语言:c++</li>
-<li>VisualStudio+VisualStudio Code+Git+Github</li>
+<li>技术栈:VisualStudio+VisualStudio Code+Git+Github</li>
 <li>平台:洛谷</li>
 
